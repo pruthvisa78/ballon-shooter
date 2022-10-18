@@ -1,0 +1,6 @@
+Run Start file to start the Game
+Up and Down arrows for Control
+Space bar for shooting
+P for Pause 
+C for continue
+R for Restart
